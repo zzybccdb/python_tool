@@ -1,2 +1,2 @@
 python_tool
-this folder includs some useful python application
+this folder includs some test by using some python libarary
