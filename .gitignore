@@ -2,3 +2,13 @@ document/
 .git/
 .vscode/
 .ipynb_checkpoints/
+!model_test/plt
+model_test/distance_map
+model_test/chart
+model_test/__pycache__
+model_test/.ipynb_checkpoints
+model_test/sort
+model_test/ae_test.py
+model_test/database.py
+model_test/dataset.py
+
